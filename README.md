@@ -49,10 +49,10 @@ Chrono Stationは、従業員の勤怠情報を一元管理するためのWebベ
 トップ画面では勤怠の状態を即座に把握でき、異常が検知された場合はAIが自然な日本語で通知を表示します。
 
 ### トップ画面
-<img src="docs/screenshots/top.PNG" width="500">
+<img src="docs/screenshots/top.PNG" width="300">
 
 ### 日次勤怠画面
-<img src="docs/screenshots/daily.PNG" width="500">
+<img src="docs/screenshots/daily.PNG" width="300">
 
 ### 月次勤怠画面
-<img src="docs/screenshots/monthly.PNG" width="500">
+<img src="docs/screenshots/monthly.PNG" width="300">
