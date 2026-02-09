@@ -275,8 +275,8 @@ onMounted(fetchTodayAttendance)
     <section class="card ai-card">
       <h2 class="card-title">AI通知</h2>
       <p class="ai-text">
-        普段利用している◯◯線で10分の遅延が発生しています。<br />
-        過去の傾向からいつもより早めの出勤を推奨します。
+        2026/01/01 の退勤打刻が確認できていません。<br />
+        内容をご確認のうえ、必要に応じて打刻修正を行ってください。
       </p>
     </section>
 
