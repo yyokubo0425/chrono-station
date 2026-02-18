@@ -56,3 +56,9 @@ Chrono Stationは、従業員の勤怠情報を一元管理するためのWebベ
 
 ### 月次勤怠画面
 <img src="docs/screenshots/monthly.PNG" width="300">
+
+### 打刻修正申請画面
+<img src="docs/screenshots/correction.PNG" width="300">
+
+### 打刻漏れ申請画面
+<img src="docs/screenshots/unrecord.PNG" width="300">
